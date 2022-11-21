@@ -1,3 +1,5 @@
+## Análise preditiva de emissão de CO2 per capita com base no consumo de energia per capita
+
 [Previsão de emissão de CO2 per capita](https://mooncake-jp.github.io/portfolio_pages/previsao_co2_per_capita/co2-emissions-study.html)<br>
 [![](https://img.shields.io/badge/Jupyter-Abrir%20Notebook-orange?logo=Jupyter)](https://github.com/mooncake-jp/co2-emissions-study/blob/b6ce0203366408972ffb39baffe4dd85f4bff2cc/co2-emissions-study.ipynb)
 ![](https://img.shields.io/badge/Pandas-Analise-blue?logo=pandas)
